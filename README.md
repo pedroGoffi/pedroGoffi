@@ -8,8 +8,11 @@
     
 
   <!-- IMAGE AUTHOR: Picrewの「Miauuu」でつくったよ！ -->
-	<img height="180em" src="https://raw.githubusercontent.com/pedroGoffi/pedroGoffi/main/assets/mainIcon.png"/>
+  <div>	  
+    <h2>Hello my name is goffi!</h2>
+    <img height="180em" src="https://raw.githubusercontent.com/pedroGoffi/pedroGoffi/main/assets/mainIcon.png"/>
+  <div>
   <!-- FOOTER -->	
-<div>
+
   ![Snake animation](https://github.com/pedroGoffi/pedroGoffi/blob/output/github-contribution-grid-snake.svg) 
 </div>
